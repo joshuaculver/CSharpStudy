@@ -1,0 +1,16 @@
+/******
+This project explores the intricacies of C#
+
+The files are labelled in order of ascending complexity. They have thorought notes starting out as new concepts are used.
+The "Main.cs" function acts as a menu which can be used when running the program to execute any of the examples.
+
+1. Is a very basic program that prints "Hello World."
+
+2. Takes input from the user and uses it to print information.
+
+3. Is a basic example of a C# class
+
+4. Takes input a step further. Takes input, cleans it to make sure it's valid, and uses it to determine what to do in a menu.
+
+5. Features some example of most basic C# structure elements. Show's some class abstraction and uses it in a simple command line game.
+*******/

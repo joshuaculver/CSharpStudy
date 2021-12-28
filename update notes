@@ -1,0 +1,13 @@
+Oct. 6th, 2020
+Initial commit. Added hello world example.
+
+Oct. 27nd, 2020
+Removed some place holders.
+Added input example and the Person class example.
+Started labeling and organizing .cs files around CSharp being the main runnable program.
+
+Nov. 16, 2020
+Added a menu with input cleaning
+
+Nov. 17, 2020
+Added a car racing "game" to show what a more complex program looks like
